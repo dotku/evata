@@ -21,8 +21,14 @@ export const metadata: Metadata = {
     "Evata brings together premium garment care and cutting-edge Korean beauty technology in the San Francisco Bay Area. Union French Cleaners & UNI&CORE authorized dealer.",
   metadataBase: new URL("https://evata.us"),
   icons: {
-    icon: "/icon.svg",
-    apple: "/apple-icon.svg",
+    icon: [
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/icon.svg", type: "image/svg+xml" },
+    ],
+    apple: [
+      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    ],
   },
   verification: {
     // google: "your-google-verification-code",

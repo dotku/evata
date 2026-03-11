@@ -34,6 +34,26 @@ const productUrls: Record<string, string> = {
   "Bone & Joint Active Mega Formula": "https://unincore.us/products/bone-joint-active-mega-formula-60-capsules",
   "骨关节活力配方": "https://unincore.us/products/bone-joint-active-mega-formula-60-capsules",
   "본 & 조인트 액티브 메가 포뮬러": "https://unincore.us/products/bone-joint-active-mega-formula-60-capsules",
+  // Guizhou Ethnic Clothing
+  "Miao Silver Embroidered Jacket": "https://union-french-cleaners.jytech.us",
+  "苗族银饰刺绣上衣": "https://union-french-cleaners.jytech.us",
+  "묘족 은장식 자수 재킷": "https://union-french-cleaners.jytech.us",
+  "Dong Indigo-Dyed Dress": "https://union-french-cleaners.jytech.us",
+  "侗族靛蓝染连衣裙": "https://union-french-cleaners.jytech.us",
+  "동족 쪽빛 염색 드레스": "https://union-french-cleaners.jytech.us",
+  "Guizhou Batik Silk Scarf": "https://union-french-cleaners.jytech.us",
+  "贵州蜡染丝巾": "https://union-french-cleaners.jytech.us",
+  "구이저우 바틱 실크 스카프": "https://union-french-cleaners.jytech.us",
+  // Guizhou Ethnic Jewelry
+  "Miao Silver Phoenix Necklace": "https://union-french-cleaners.jytech.us",
+  "苗族银凤凰项链": "https://union-french-cleaners.jytech.us",
+  "묘족 은 봉황 목걸이": "https://union-french-cleaners.jytech.us",
+  "Guizhou Silver Filigree Bracelet": "https://union-french-cleaners.jytech.us",
+  "贵州银丝花丝手镯": "https://union-french-cleaners.jytech.us",
+  "구이저우 은 세공 팔찌": "https://union-french-cleaners.jytech.us",
+  "Miao Embroidered Earrings": "https://union-french-cleaners.jytech.us",
+  "苗族刺绣耳环": "https://union-french-cleaners.jytech.us",
+  "묘족 자수 귀걸이": "https://union-french-cleaners.jytech.us",
 };
 
 const productImages: Record<string, string> = {
@@ -60,6 +80,36 @@ const productImages: Record<string, string> = {
   "Bone & Joint Active Mega Formula": "https://unincore.us/cdn/shop/files/20240902134302_a241699c-473f-4cad-8142-c626d3c5854d.png?v=1757821365&width=600",
   "骨关节活力配方": "https://unincore.us/cdn/shop/files/20240902134302_a241699c-473f-4cad-8142-c626d3c5854d.png?v=1757821365&width=600",
   "본 & 조인트 액티브 메가 포뮬러": "https://unincore.us/cdn/shop/files/20240902134302_a241699c-473f-4cad-8142-c626d3c5854d.png?v=1757821365&width=600",
+  // Korean Ginseng (AI generated)
+  "Korean Red Ginseng Extract": "/products/korean-red-ginseng.png",
+  "韩国红参精华液": "/products/korean-red-ginseng.png",
+  "한국 홍삼 추출액": "/products/korean-red-ginseng.png",
+  "Korean Ginseng Tea Gift Set": "/products/ginseng-tea-gift-set.png",
+  "韩国人参茶礼盒": "/products/ginseng-tea-gift-set.png",
+  "한국 인삼차 선물세트": "/products/ginseng-tea-gift-set.png",
+  "Korean Ginseng Sliced Root": "/products/korean-red-ginseng.png",
+  "韩国人参切片": "/products/korean-red-ginseng.png",
+  "한국 인삼 슬라이스": "/products/korean-red-ginseng.png",
+  // Guizhou Ethnic Clothing (AI generated)
+  "Miao Silver Embroidered Jacket": "/products/miao-silver-jacket.png",
+  "苗族银饰刺绣上衣": "/products/miao-silver-jacket.png",
+  "묘족 은장식 자수 재킷": "/products/miao-silver-jacket.png",
+  "Dong Indigo-Dyed Dress": "/products/dong-indigo-dress.png",
+  "侗族靛蓝染连衣裙": "/products/dong-indigo-dress.png",
+  "동족 쪽빛 염색 드레스": "/products/dong-indigo-dress.png",
+  "Guizhou Batik Silk Scarf": "/products/batik-silk-scarf.png",
+  "贵州蜡染丝巾": "/products/batik-silk-scarf.png",
+  "구이저우 바틱 실크 스카프": "/products/batik-silk-scarf.png",
+  // Guizhou Ethnic Jewelry (AI generated)
+  "Miao Silver Phoenix Necklace": "/products/phoenix-necklace.png",
+  "苗族银凤凰项链": "/products/phoenix-necklace.png",
+  "묘족 은 봉황 목걸이": "/products/phoenix-necklace.png",
+  "Guizhou Silver Filigree Bracelet": "/products/filigree-bracelet.png",
+  "贵州银丝花丝手镯": "/products/filigree-bracelet.png",
+  "구이저우 은 세공 팔찌": "/products/filigree-bracelet.png",
+  "Miao Embroidered Earrings": "/products/embroidered-earrings.png",
+  "苗族刺绣耳环": "/products/embroidered-earrings.png",
+  "묘족 자수 귀걸이": "/products/embroidered-earrings.png",
 };
 
 export default function LangPage() {
